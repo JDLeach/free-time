@@ -1,0 +1,5 @@
+#timerContainer{
+    width: 500px;height: 500px;background-color: lightgray;border-radius: 50%;display: flex;justify-content: center;align-items: center;
+}
+#timerContainer #minuteOrHour{font-size: 40px;}
+#timerContainer #minutes{font-size: 37px; width: calc(60px);}
